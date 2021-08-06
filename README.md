@@ -8,7 +8,12 @@ Shopy (E-commerce iOS App) facilitates the search, selection, and purchase of cl
 
 [![Watch The Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=QqhAcO0G8oIxNpGELisEx0)
 
+---
+**NOTE**
 
+This application was implemented using licensed api shpify, but now the license is out of date 
+
+---
 
 
 # contributers
