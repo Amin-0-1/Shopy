@@ -6,7 +6,7 @@ Shopy (E-commerce iOS App) facilitates the search, selection, and purchase of cl
 
 ## Demo
 
-[![Watch The Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=QqhAcO0G8oIxNpGELisEx0)
+[![Watch The Demo](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/paCt4gjPGGM)
 
 ---
 **NOTE**
